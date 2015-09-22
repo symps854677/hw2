@@ -1,0 +1,10 @@
+Amazon Web Services (AWS) is a flexible, cost-effective, easy-to-use cloud computing
+platform. The AWS Cloud delivers a comprehensive portfolio of secure and scalable
+cloud computing services in a self-service, pay-as-you-go model, with zero capital
+expense needed to handle your big data analytics workloads, such as real-time
+streaming analytics, data warehousing, NoSQL and relational databases, object storage,
+analytics tools, and data workflow services. This whitepaper provides an overview of the
+different big data options available in the AWS Cloud for architects, data scientists, and
+developers. For each of the big data analytics options, this paper describes the
+followingIn this assignment, you will implement a simple multi-treaded program that, gives a text file, compiles a dictionary of words
+contained in this file.
